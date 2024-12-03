@@ -72,9 +72,14 @@
   background-position: center;}
   
   
-  .zille-img{ background-image: url(zille/images/profile-img.png);
+  .zille-img{ background-image: url(Zille/images/profile-img.png);
   background-size: cover;
   background-position: center;}
+
+  .saveen-img{ background-image: url(saveen/saveen.jpg);
+    background-size: cover;
+    background-position: center;}
+    
   
   .profile-card:hover {
     animation: shake 0.5s ease-in-out;
